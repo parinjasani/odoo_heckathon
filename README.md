@@ -1,30 +1,16 @@
-# React + TypeScript + Vite
+# Project Title: StackIt – A Minimal Q&A Forum Platform
+## 📋 Project Description
+StackIt is a m inim al question-and-answer platform that supports collaborative
+learning and structured knowledge sharing. It’s designed to be sim ple, user- friendly,
+and focused on the core experience of asking and answering questions within a
+community.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 👥 Team Members
+- Parin Jasani  
+- Sujal Patoliya 
+- Tisha dharani
+  
 
-Currently, two official plugins are available:
+## 🎥 Project Demo Video
+Watch how our project works here: [![Watch the video](https://drive.google.com/file/d/1AWEbaRVhEbwfcNDgH0uzmDK-AKgx7JUp/view?usp=sharing)]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
