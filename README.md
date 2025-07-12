@@ -12,5 +12,5 @@ community.
   
 
 ## 🎥 Project Demo Video
-Watch how our project works here: [![Watch the video](https://drive.google.com/file/d/1AWEbaRVhEbwfcNDgH0uzmDK-AKgx7JUp/view?usp=sharing)]
+Watch how our project works here: [Watch the video](https://drive.google.com/file/d/1AWEbaRVhEbwfcNDgH0uzmDK-AKgx7JUp/view?usp=sharing)
 
